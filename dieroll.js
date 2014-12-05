@@ -43,7 +43,6 @@ var dieImage = function (junk) {
   }  
 };
 
-
 document.getElementById("roll_id").onclick = function () {
   var firstRoll = diceRoll();
   var secondRoll = diceRoll();
